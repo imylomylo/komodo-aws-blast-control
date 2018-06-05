@@ -1,0 +1,7 @@
+{
+  "name": "komodo-aws-blast-control",
+  "version": "1.0.0",
+  "description": "Simple HTTP GET endpoint",
+  "author": "mylo",
+  "license": "MIT"
+}
